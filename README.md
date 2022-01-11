@@ -41,10 +41,14 @@ PowerPoint.
 Excel
 # Libraries:
 NumPy.
+
 Pandas.
+
 Matplotlib.
-Seaborn
-sciket learn
+
+Seaborn.
+
+sciket learn.
 
 
 
