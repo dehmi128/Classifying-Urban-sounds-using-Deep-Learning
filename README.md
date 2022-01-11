@@ -36,9 +36,13 @@ Street Music
 
  # Tools:
 Python.
+
 Jupyter Notebook.
+
 PowerPoint.
-Excel
+
+Excel.
+
 # Libraries:
 NumPy.
 
